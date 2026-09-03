@@ -17,7 +17,7 @@ knitr::include_graphics('./MLO_final_long2.png')
 knitr::include_graphics('./LevelOfSurvey_final_long2.png')
 
 ## ----eval=FALSE---------------------------------------------------------------
-#  create_eml(..., is_about = c(`Manipulative experiment` = "http://purl.dataone.org/odo/ECSO_00000506")
+# create_eml(..., is_about = c(`Manipulative experiment` = "http://purl.dataone.org/odo/ECSO_00000506")
 
 ## ----echo=FALSE, out.width='100%', fig.cap='Figure 5. The metadata of a deprecated L1 dataset.'----
 knitr::include_graphics('./deprecated.jpg')

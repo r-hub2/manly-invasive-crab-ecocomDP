@@ -4,6 +4,3 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 
-## ----echo=FALSE, out.width='100%'---------------------------------------------
-knitr::include_graphics('./model.png')
-
