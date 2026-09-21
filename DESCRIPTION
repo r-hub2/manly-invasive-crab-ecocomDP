@@ -93,7 +93,7 @@ VignetteBuilder: knitr
 Language: en-US
 Config/roxygen2/version: 8.0.0
 NeedsCompilation: no
-Packaged: 2026-09-03 20:47:18 UTC; csmith
+Packaged: 2026-09-21 17:20:59 UTC; csmith
 Author: Colin Smith [aut, cre, cph] (ORCID:
     <https://orcid.org/0000-0003-2261-9931>),
   Eric Sokol [aut] (ORCID: <https://orcid.org/0000-0001-5923-0917>),
