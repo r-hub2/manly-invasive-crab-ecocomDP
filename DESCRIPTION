@@ -88,12 +88,12 @@ Imports: RColorBrewer, data.table, dplyr, EDIutils (>= 3.0.0), EML (>=
         magrittr, methods, neonUtilities (>= 2.1.1), rlang, rmarkdown,
         stats, stringr, tidyr, tools, utils, uuid, xml2, neonOS
 Suggests: knitr, mime, reader, ritis, taxize, testthat, worrms,
-        ggrepel, usmap (>= 0.6.1), sf (>= 1.0.9), maps
+        ggrepel, usmap (>= 0.6.1), sf (>= 1.0.9), s2 (== 1.1.10), maps
 VignetteBuilder: knitr
 Language: en-US
 Config/roxygen2/version: 8.0.0
 NeedsCompilation: no
-Packaged: 2026-10-08 22:39:53 UTC; csmith
+Packaged: 2026-10-08 22:58:34 UTC; csmith
 Author: Colin Smith [aut, cre, cph] (ORCID:
     <https://orcid.org/0000-0003-2261-9931>),
   Eric Sokol [aut] (ORCID: <https://orcid.org/0000-0001-5923-0917>),
